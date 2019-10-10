@@ -1,3 +1,4 @@
+/* eslint-disable default-case */
 // Array sort doc
 // @see https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/sort#Description
 
